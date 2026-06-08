@@ -1,0 +1,3 @@
+﻿Files: 8
+Total MB: 7.18
+Drag the assets folder from this batch into the GitHub repository root.
