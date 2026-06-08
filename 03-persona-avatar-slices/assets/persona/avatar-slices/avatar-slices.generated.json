@@ -1,0 +1,44 @@
+{
+  "joker": {
+    "square": "./assets/persona/avatar-slices/joker-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/joker-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/joker-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/joker-profile-cut.png"
+  },
+  "skull": {
+    "square": "./assets/persona/avatar-slices/skull-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/skull-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/skull-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/skull-profile-cut.png"
+  },
+  "panther": {
+    "square": "./assets/persona/avatar-slices/panther-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/panther-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/panther-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/panther-profile-cut.png"
+  },
+  "fox": {
+    "square": "./assets/persona/avatar-slices/fox-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/fox-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/fox-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/fox-profile-cut.png"
+  },
+  "queen": {
+    "square": "./assets/persona/avatar-slices/queen-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/queen-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/queen-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/queen-profile-cut.png"
+  },
+  "oracle": {
+    "square": "./assets/persona/avatar-slices/oracle-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/oracle-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/oracle-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/oracle-profile-cut.png"
+  },
+  "violet": {
+    "square": "./assets/persona/avatar-slices/violet-square.png",
+    "eyeStrip": "./assets/persona/avatar-slices/violet-eye-strip.png",
+    "diagonalShard": "./assets/persona/avatar-slices/violet-diagonal-shard.png",
+    "profileCut": "./assets/persona/avatar-slices/violet-profile-cut.png"
+  }
+}
