@@ -1,0 +1,17 @@
+{
+  "archiveDepth": {
+    "file": "assets/velvet/scene-overlays/velvet-archive-depth-v1.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "foregroundShadow": {
+    "file": "assets/velvet/scene-overlays/velvet-foreground-shadow-v1.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "lightSweep": {
+    "file": "assets/velvet/scene-overlays/velvet-light-sweep-v1.png",
+    "width": 1920,
+    "height": 1080
+  }
+}
