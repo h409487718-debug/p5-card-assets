@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Shujin Academy crest">
+  <defs>
+    <linearGradient id="crestRed" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f01422"/>
+      <stop offset="1" stop-color="#85000d"/>
+    </linearGradient>
+    <filter id="hardShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="8" dy="8" stdDeviation="0" flood-color="#050505"/>
+    </filter>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#050505"/>
+  <path d="M31 49h194v110c0 43-35 70-97 88-62-18-97-45-97-88V49z" fill="#f7f7f4" filter="url(#hardShadow)"/>
+  <path d="M45 63h166v93c0 34-27 56-83 73-56-17-83-39-83-73V63z" fill="url(#crestRed)"/>
+  <path d="M45 63h166L45 201V63z" fill="#050505" opacity=".88"/>
+  <path d="M62 81h132v18H62zM62 161h132v18H62z" fill="#f7f7f4"/>
+  <path d="M83 118c0-28 23-45 55-45 20 0 37 7 50 18l-24 24c-7-5-15-8-25-8-12 0-19 4-19 11 0 8 8 10 27 14 25 5 45 15 45 43 0 30-24 48-61 48-26 0-50-9-66-25l25-25c10 10 25 16 41 16 15 0 22-4 22-12 0-9-9-12-29-16-24-5-41-16-41-43z" fill="#f7f7f4"/>
+  <path d="M77 91l-17-29 31 13 37-34 37 34 31-13-17 29" fill="none" stroke="#f4e62a" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M101 214h54l-27 18-27-18z" fill="#f4e62a"/>
+</svg>
